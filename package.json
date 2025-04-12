@@ -1,0 +1,11 @@
+{
+  "name": "clearcorelcache",
+  "version": "1.0.0",
+  "description": "快速清除Corel软件的缓存",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
